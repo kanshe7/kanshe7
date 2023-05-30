@@ -1,4 +1,4 @@
-# Bugema University Graduation Project
+# Bugema University Final Year Project
 
 ## Project Title
 
